@@ -1,0 +1,6 @@
+framework module Pods_BadDecisionMaker {
+  umbrella header "Pods-BadDecisionMaker-umbrella.h"
+
+  export *
+  module * { export * }
+}
